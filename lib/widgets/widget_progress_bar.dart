@@ -25,7 +25,7 @@ class WidgetProgressBar extends StatelessWidget {
             ),
         ),
         SizedBox(width: 8),
-        Text("${valor.toInt()}${maxValor > 100 ? ' / ${maxValor.toInt()}' : ''}"),
+        Text("${valor.toInt()}${maxValor > 100 ? ' / ${maxValor.toInt()}' : ''}",style: TextStyle(color: Colors.green),),
       ],
     ),
     );
