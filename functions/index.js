@@ -5,10 +5,7 @@ const fetch = require("node-fetch");
 admin.initializeApp();
 const db = admin.firestore();
 
-const OPENAI_API_KEY = "sk-proj-j6hvjymV2Ht6THnGF3ys" +
-  "QIzy3aWTTtaGAQt6EOq0xmiqq7KTSdhYIzJXaulcWX0G1dPe3-_" +
-  "KgST3BlbkFJ5jFGEBT7duD4SvXTnr-95VivNsF8oDxLD8Br" +
-  "UMIzDrW9BOsGKbbQLorcxhuPbXoAIAIwAFv5wA";
+const OPENAI_API_KEY ;// Las credenciales originales utilizadas durante el desarrollo académico fueron revocadas y eliminadas antes de publicar este repositorio.
 
 // llamada a OpenAI
 async function pedirRespuestaOpenAI(messages) {
