@@ -2,40 +2,62 @@
 
 Aplicación móvil con integración de IA desarrollada como Trabajo de Fin de Grado.
 
+---
+
 ## Technologies used
 
-![VS Code](ReadmeFiles/vscode.png){width=50px} ![Firebase](ReadmeFiles/firebase.png){width=50px} ![Dart](ReadmeFiles/dart.png){width=50px} ![Flutter](ReadmeFiles/flutter.png){width=50px} ![OpenAI](ReadmeFiles/OpenAI.png){width=50px} ![Httpie](ReadmeFiles/httpie.png){width=50px}
+<img src="ReadmeFiles/vscode.png" width="50"/>
+<img src="ReadmeFiles/firebase.png" width="50"/>
+<img src="ReadmeFiles/dart.png" width="50"/>
+<img src="ReadmeFiles/flutter.png" width="50"/>
+<img src="ReadmeFiles/OpenAI.png" width="50"/>
+<img src="ReadmeFiles/httpie.png" width="50"/>
+
+---
 
 ## Overview
 
 Desarrollo de una aplicación móvil que permite a los usuarios capturar imágenes de alimentos y etiquetas nutricionales para extraer automáticamente información clave como calorías, proteínas, azúcares y más. La aplicación utiliza inteligencia artificial para el reconocimiento de texto. El objetivo principal es automatizar el seguimiento nutricional diario de los usuarios, ofreciendo una experiencia intuitiva, rápida y precisa.
 
+---
+
 ## Base de datos
 
-![Database](ReadmeFiles/base_de_datos.png){width=600px}
+<img src="ReadmeFiles/base_de_datos.png" width="600"/>
 
+---
 ## Diagrama implementación IA
 
-![IA Diagram](ReadmeFiles/DiagramaIA.png){width=600px}
+<img src="ReadmeFiles/DiagramaIA.png" width="600"/>
 
+---
 ## Pantallas
 
-* **Usuario:**
+### Usuario
 
-![User](ReadmeFiles/usuario.png){width=700px}
+<p align="center">
+  <img src="ReadmeFiles/usuario.png" width="700"/>
+</p>
 
-* **Historial:**
-  
-![History](ReadmeFiles/historial.png){width=700px}
+### Historial
 
-* **Home:**
+<p align="center">
+<img src="ReadmeFiles/historial.png" width="700"/>
+</p>
 
-![Home](ReadmeFiles/home.png){width=700px}
+### Home
 
-* **Planificación:**
+<p align="center">
+<img src="ReadmeFiles/home.png" width="700"/>
+</p>
 
-![Planning](ReadmeFiles/planificacion.png){width=700px}
+### Planificación
 
+<p align="center">
+<img src="ReadmeFiles/planificacion.png" width="700"/>
+</p>
+
+---
 ## Features
 
 * Integración con OpenAI API
@@ -44,14 +66,20 @@ Desarrollo de una aplicación móvil que permite a los usuarios capturar imágen
 * Sistema de planificación
 * Lectura automática de nutrientes
 
+---
+
 ## Academic Context
 
-Proyecto desarrollado como Trabajo de Fin de Grado para [Universidad Politecnica de Cataluña].
+Proyecto desarrollado como Trabajo de Fin de Grado para [Universidad Politecnica de Cataluña](https://www.upc.edu/es)
+
+---
 
 ## Documentación oficial
 
 * [UPC Link(Oficial Documentation)](https://hdl.handle.net/2117/450754)
 * [Presentation (PDF)](ReadmeFiles/DefensaTFG.pdf)
+
+---
 
 ## Current Status
 
@@ -59,6 +87,8 @@ Proyecto finalizado como prototipo académico.
 
 Algunas áreas del código reflejan decisiones tempranas de aprendizaje
 y no representan necesariamente prácticas de producción actuales.
+
+---
 
 ## What I Learned
 
@@ -70,19 +100,19 @@ y no representan necesariamente prácticas de producción actuales.
 * Organización de Base de datos NoSQL
 * Diseño UI/UX
 
+---
+
 ## Security Note
 
 Las credenciales originales(Open AI) utilizadas durante el desarrollo académico fueron revocadas y eliminadas antes de publicar este repositorio.
+
+---
 
 ## License
 
 All rights reserved.
 
-This repository is publicly visible for educational and portfolio purposes only.
-
-Copyright (c) 2026 Tu Nombre
-
-All rights reserved.
+Copyright (c) 2026 Guillermo Medina
 
 This repository is publicly available for educational and portfolio purposes only.
 
