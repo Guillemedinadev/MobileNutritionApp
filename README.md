@@ -6,12 +6,7 @@ Aplicación móvil con integración de IA desarrollada como Trabajo de Fin de Gr
 
 ## Technologies used
 
-<img src="ReadmeFiles/vscode.png" width="50"/>
-<img src="ReadmeFiles/firebase.png" width="50"/>
-<img src="ReadmeFiles/dart.png" width="50"/>
-<img src="ReadmeFiles/flutter.png" width="50"/>
-<img src="ReadmeFiles/openai.png" width="50"/>
-<img src="ReadmeFiles/httpie.png" width="50"/>
+<img src="ReadmeFiles/vscode.png" width="50"/> <img src="ReadmeFiles/firebase.png" width="50"/> <img src="ReadmeFiles/dart.png" width="50"/> <img src="ReadmeFiles/flutter.png" width="50"/> <img src="ReadmeFiles/openai.png" width="50"/> <img src="ReadmeFiles/httpie.png" width="50"/>
 
 ---
 
